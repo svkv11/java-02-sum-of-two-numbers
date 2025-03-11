@@ -4,16 +4,16 @@ sum of two numbers
 # method_1----
 taking input before compiling 
 public class main{
-<dr>
+<br>
  public static void main(String[]args){
- <dr>
+ <br>
  int a = 5;
- <dr>
+ <br>
  int b= 6;
- <dr>
+ <br>
  System.out.println(a+b);
- <dr>
+ <br>
  }
- <dr>
+ <br>
 } 
 
