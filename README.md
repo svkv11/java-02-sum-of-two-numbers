@@ -17,3 +17,22 @@ public class main{
  <br>
 } 
 
+
+# method_2----
+taking input while compiling 
+
+import java.util.*; // here we are importing the needs which are used for scanning and these are in the utility package
+
+public class main{
+<br>
+public static void main(Strings[]args){
+Scanner sc=new Scanner(System.in);
+System.out.println("enter the two numbers");
+int a = sc.nextInt();
+int b = sc.nextInt();
+System.out.println("the sum of two numbers are "+(a+b));
+}
+}
+
+
+
