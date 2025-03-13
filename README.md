@@ -26,12 +26,19 @@ import java.util.*; // here we are importing the needs which are used for scanni
 public class main{
 <br>
 public static void main(Strings[]args){
+<br>
 Scanner sc=new Scanner(System.in);
+<br>
 System.out.println("enter the two numbers");
+<br>
 int a = sc.nextInt();
+<br>
 int b = sc.nextInt();
+<br>
 System.out.println("the sum of two numbers are "+(a+b));
+<br>
 }
+<br>
 }
 
 
